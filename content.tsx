@@ -1,2 +1,2 @@
 console.log("frrin")
-console.log("tycut")
+console.log("ojuey")
